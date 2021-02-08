@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javafx/Javafx.iml" filepath="$PROJECT_DIR$/Javafx/Javafx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Practice.iml" filepath="$PROJECT_DIR$/.idea/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx2/javafx2.iml" filepath="$PROJECT_DIR$/javafx2/javafx2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx3/javafx3.iml" filepath="$PROJECT_DIR$/javafx3/javafx3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx4/javafx4.iml" filepath="$PROJECT_DIR$/javafx4/javafx4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx5/javafx5.iml" filepath="$PROJECT_DIR$/javafx5/javafx5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx6/javafx6.iml" filepath="$PROJECT_DIR$/javafx6/javafx6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx7/javafx7.iml" filepath="$PROJECT_DIR$/javafx7/javafx7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javafx8/javafx8.iml" filepath="$PROJECT_DIR$/javafx8/javafx8.iml" />
+    </modules>
+  </component>
+</project>
